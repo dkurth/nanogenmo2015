@@ -1,5 +1,3 @@
-# Translates the entire file at once
-
 from telgame import Telgame
 import re
 import sys
